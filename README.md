@@ -19,7 +19,7 @@ The data are Twitter disaster feeds and therefore a binary classification proble
      <td>GRU</td>
   </tr>
   <tr>
-    <td valign="top"><img src = "/docs/rnn.png" width="300"height="250"></td>
+    <td valign="top"><img src = "/docs/rnn.png" width="300", height="250"></td>
     <td valign="top"><img src = "/docs/lstm.png"></td>
     <td valign="top"><img src = "/docs/gru.png"></td>
   </tr>
