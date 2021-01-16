@@ -28,9 +28,4 @@ Vanilla RNN
     <td valign="top"><img src = "/docs/gru.png" width="250" height="250"></td>
   </tr>
  </table>
- 
-<p float="left">
-<img src = "/docs/rnn.png" width="250" height="250">
-<img src = "/docs/lstm.png" width="250" height="250">
-<img src = "/docs/gru.png" width="250" height="250">
-</p>
+
