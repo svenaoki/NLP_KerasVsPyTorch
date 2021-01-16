@@ -16,7 +16,7 @@ In the frontend folder is the ReactJS app which allows us to upload a picture, s
 
 Vanilla RNN
 
-<img src = "/docs/rnn.png">
+<img src = "/docs/rnn.png" width="500" height="600">
 
 LSTM
 
