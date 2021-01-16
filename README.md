@@ -16,6 +16,19 @@ In the frontend folder is the ReactJS app which allows us to upload a picture, s
 
 Vanilla RNN
 
+<table>
+  <tr>
+    <td>Vanilla RNN</td>
+     <td>LSTM</td>
+     <td>GRU</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src = "/docs/rnn.png" width="250" height="250"></td>
+    <td valign="top"><img src = "/docs/lstm.png" width="250" height="250"></td>
+    <td valign="top"><img src = "/docs/gru.png" width="250" height="250"></td>
+  </tr>
+ </table>
+ 
 <p float="left">
 <img src = "/docs/rnn.png" width="250" height="250">
 <img src = "/docs/lstm.png" width="250" height="250">
