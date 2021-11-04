@@ -4,7 +4,7 @@ Brief comparison of PyTorch and Keras when working with Recurrent Neural Network
 
 ```
 ├── scripts/
-│   ├── data.pcsv
+│   ├── data.csv
 │   ├── keras_nlp.py
 │   └── pytorch_nlp.py
 └── docs/
